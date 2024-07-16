@@ -1,0 +1,17 @@
+@font-face {
+    font-family: IranSans;
+    src: url("IRANSansWeb_FaNum.woff2");
+}
+
+@font-face {
+    font-family: IranSansBold;
+    src: url("IRANSansWeb_FaNum_Bold.woff2");
+}
+
+h1 , h2 , h3 , h4 , h5 , h6 , b{
+    font-family: IranSansBold !important;
+}
+
+p , i , span , label , input , textarea , button{
+    font-family: IranSans !important;
+}
